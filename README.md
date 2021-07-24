@@ -1,4 +1,6 @@
 # iServer-lite
+[国外仓库](https://github.com/iServer-lite/iServer-lite)|
+[国内仓库](https://gitee.com/iServer-lite/iServer-lite)
 
 ![](./image/2.png)
 
